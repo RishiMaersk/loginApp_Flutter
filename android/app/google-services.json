@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "90395102027",
+    "project_id": "loginapp-fa9da",
+    "storage_bucket": "loginapp-fa9da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90395102027:android:07fca810154b3382d7b6ce",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY6eHXh92vgYI3n-qxM22-eqUDl52F5iY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
